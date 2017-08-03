@@ -1,0 +1,2 @@
+module GlamHelper
+end

@@ -1,0 +1,2 @@
+class GlamController < ApplicationController
+end
