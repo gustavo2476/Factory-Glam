@@ -13,6 +13,8 @@ group :production do
 gem 'pg'
 end
 
+gem 'font-awesome-rails'
+
 group :development do
 	gem 'sqlite3'
 end
